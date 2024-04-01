@@ -2,7 +2,7 @@ module github.com/jamacku/gh-upstream-report
 
 go 1.21.7
 
-require github.com/cli/go-gh/v2 v2.5.0
+require github.com/cli/go-gh/v2 v2.7.0
 
 require (
 	github.com/aymanbagabas/go-osc52 v1.0.3 // indirect
